@@ -24,9 +24,9 @@ Currently working at **ZTE** on large-scale telecom infrastructure, data migrati
 | Project | Stack | What It Does |
 |---|---|---|
 | [📈 Stock ETL Pipeline](https://github.com/ahmedmajid22/stock_etl_pipeline) | Airflow · PostgreSQL · Celery · Redis · Prometheus · Grafana · Docker | Production-grade pipeline: parallel OHLCV ingestion, 3-state circuit breaker, 87% test coverage, auto-provisioned Grafana dashboard |
-| [🌦️ Weather Analytics Platform](https://github.com/ahmedmajid22/Full_weather-analytics-platform-Data-Project-) | Airflow · Kafka · dbt · MinIO · Grafana | Full streaming + batch weather data platform |
+| [🌦️ Weather Analytics Platform](https://github.com/ahmedmajid22/weather-analytics-platform) | Airflow · Kafka · dbt · MinIO · Grafana | Full streaming + batch weather data platform |
 | [📡 Telecom Data Warehouse](https://github.com/ahmedmajid22/telecom-data-warehouse-etl) | Python · Airflow · PostgreSQL · Docker · CI/CD | End-to-end ETL pipeline for telecom data into a star-schema warehouse |
-| [🏗️ SQL Data Warehouse](https://github.com/ahmedmajid22/Data-Warehouse-Sql) | SQL · MySQL · Medallion Architecture | Bronze → Silver → Gold data warehouse with star schema modeling |
+| [🏗️ SQL Data Warehouse](https://github.com/ahmedmajid22/sql-data-warehouse) | SQL · MySQL · Medallion Architecture | Bronze → Silver → Gold data warehouse with star schema modeling |
 
 ---
 
