@@ -41,7 +41,7 @@ class AhmedMajid:
     title       = "Senior Data Engineer"
     location    = "Tripoli, Libya 🇱🇾"
     employer    = "ZTE Corporation"
-    
+
     core_skills = [
         "Production ETL/ELT Pipelines",
         "Real-Time Streaming Platforms",
@@ -50,27 +50,6 @@ class AhmedMajid:
         "Dimensional Modeling (Star Schema)",
         "Medallion Architecture (Bronze→Silver→Gold)",
     ]
-    
-    daily_stack = {
-        "orchestration" : ["Apache Airflow", "Dagster"],
-        "streaming"     : ["Apache Kafka", "Celery", "Redis"],
-        "transform"     : ["dbt", "Pandas", "PyArrow"],
-        "storage"       : ["PostgreSQL", "MySQL", "MinIO"],
-        "observability" : ["Prometheus", "Grafana"],
-        "infra"         : ["Docker", "GitHub Actions"],
-        "languages"     : ["Python 🐍", "SQL 🗄️", "Dart"],
-    }
-    
-    currently    = "Building large-scale telecom data infrastructure @ ZTE"
-    seeking      = "Senior Remote Data Engineering roles 🌍"
-    open_to_work = True
-
-    def philosophy(self):
-        return (
-            "Raw data is noise. "
-            "Engineered data is signal. "
-            "I build the systems that turn one into the other."
-        )
 ```
 
 <br/>
@@ -88,39 +67,9 @@ class AhmedMajid:
 
 <div align="center">
 
-### 🔀 Orchestration & Workflow
-[![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/)
-[![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white)](https://dagster.io/)
+[![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/)&nbsp;[![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white)](https://dagster.io/)&nbsp;[![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)&nbsp;[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)&nbsp;[![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryq.dev/)&nbsp;[![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)&nbsp;[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)&nbsp;[![PyArrow](https://img.shields.io/badge/PyArrow-013243?style=for-the-badge&logo=apache&logoColor=white)](https://arrow.apache.org/docs/python/)
 
-### 📡 Streaming & Messaging
-[![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryq.dev/)
-
-### 🔄 Transformation & Modeling
-[![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![PyArrow](https://img.shields.io/badge/PyArrow-013243?style=for-the-badge&logo=apache&logoColor=white)](https://arrow.apache.org/docs/python/)
-
-### 🗄️ Storage & Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)](https://min.io/)
-
-### 📊 Observability & Monitoring
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)](https://prometheus.io/)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
-
-### 🐳 Infrastructure & CI/CD
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-
-### 💻 Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)&nbsp;[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)&nbsp;[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)](https://min.io/)&nbsp;[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)](https://prometheus.io/)&nbsp;[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)&nbsp;[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)&nbsp;[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)&nbsp;[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)&nbsp;[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)&nbsp;[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://en.wikipedia.org/wiki/SQL)&nbsp;[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)&nbsp;[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 </div>
 
@@ -331,99 +280,6 @@ class AhmedMajid:
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 &nbsp;GitHub Stats
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedmajid22&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-&nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmajid22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=html,css"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="72%" src="https://streak-stats.demolab.com?user=ahmedmajid22&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=58a6ff" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmajid22&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=1a2a4a" width="98%"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<br/>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmajid22&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 &nbsp;Let's Build Something Serious
-
-<br/>
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   I'm actively looking for remote Data Engineering roles.               │
-│                                                                          │
-│   What I bring to the table:                                             │
-│   → Production-grade pipelines with observability baked in              │
-│   → End-to-end ownership from raw ingestion to analytics layer          │
-│   → Battle-tested with telecom-scale data at ZTE                        │
-│   → Clean, tested, documented, containerized code. Always.              │
-│                                                                          │
-│   Pipelines · Platforms · Warehouses · Real-Time Systems                │
-│                                                                          │
-│   If you're building serious data infrastructure — let's talk.          │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn%20→-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-majid-162659392)&nbsp;
-[![Email](https://img.shields.io/badge/Send%20an%20Email%20→-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmajid22@gmail.com)
-
-<br/>
-
-<sub>⚡ Response time: usually within 24 hours &nbsp;|&nbsp; 🌍 UTC+2 (Libya)</sub>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <sub>Built with ❤️ and obsessive attention to data quality · <a href="https://github.com/ahmedmajid22">ahmedmajid22</a></sub>
-</div>
 
 <br/>
 
